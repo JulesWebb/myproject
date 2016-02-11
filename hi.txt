@@ -6,7 +6,11 @@ updtinet
 
 dfjdkjf;adkldf dsjkfdks 
 
+<<<<<<< HEAD
 fddjaskf;djajf
 j
 
 More changes here
+=======
+fddjaskf;djajf
+>>>>>>> b5aa1b7d2159b088a3e00f73ddb76c0ac9452074
